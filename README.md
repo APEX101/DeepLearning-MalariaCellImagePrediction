@@ -1,5 +1,9 @@
 
 # MalariaCellPrediction-CNN
+<p float="left">
+<img src=effected.png width="30%" >
+<img src=normal.png width="30%" >
+</p>
 
 
 
